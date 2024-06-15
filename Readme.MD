@@ -28,7 +28,8 @@ This repository contains the files and codes that I wrote as part of the Bot Bra
 
 ## Files
 - `PART A, B and C.pdf`: Contains The first 3 parts of the answers.
-- `Part D`: Contains calculations, ideation ,theory, diagrams and references.
+- `Part D.pdf`: Contains calculations, ideation ,theory, diagrams and references.
+- `homeSecuritySystem`: Contains C++ code for an Home Security System that I had to fill in the missing lines of code and debug it a bit. 
 
 ## Ideation
 This project integrates a modular parcel handling system with advanced sensor fusion and control algorithms to create a versatile and efficient delivery robot.
