@@ -1,9 +1,9 @@
 # Two-Wheeled Self-Balancing Robot (TWSBR)
 
 ## Overview
-This project involves designing and programming a Two-Wheeled Self-Balancing Robot (TWSBR) capable of autonomous navigation and parcel handling.
+This repository contains the files and codes that I wrote as part of the Bot Brains Round 2
 
-## Features
+## Features you can learn from these files
 - Balance control using IMU (MPU6050)
 - Motor control using L298N motor driver
 - GPS-based navigation
