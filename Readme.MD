@@ -27,8 +27,8 @@ This project involves designing and programming a Two-Wheeled Self-Balancing Rob
 
 
 ## Files
-- `PART A, B and C`: Contains The first 3 parts of the answers.
-- `motor_driver.py`: Contains calculations, ideation ,theory, diagrams and references.
+- `PART A, B and C.pdf`: Contains The first 3 parts of the answers.
+- `Part D`: Contains calculations, ideation ,theory, diagrams and references.
 
 ## Ideation
 This project integrates a modular parcel handling system with advanced sensor fusion and control algorithms to create a versatile and efficient delivery robot.
